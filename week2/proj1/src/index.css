@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+#root {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  /* display: grid;
+  grid-template-columns: 1fr 1fr 1fr; */
+}
+
+a {
+  color: white;
+  font-weight: 800;
+}
+
+#rightNav {
+  font-size: 10px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+#button {
+  background-color: red;
+}
+#bloglist-container{
+  display: grid;
+  text-align: justify;
+  justify-content: center;
+  grid-column: 2/3;
+}
+
+
+/* 
+#other-lines {
+  width: 100%;
+} */
