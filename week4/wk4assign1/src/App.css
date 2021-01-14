@@ -1,0 +1,19 @@
+body{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: teal;
+}
+
+ul{
+  background-color: grey;
+  list-style-type: none;
+  font-size: 20px;
+  font-weight: 800;
+  margin: 50px;
+  border-radius: 20px;
+}
+
+li{
+  padding: 8px;
+}
