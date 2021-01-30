@@ -1,0 +1,47 @@
+body {
+  text-align: center;
+  background-color: grey;
+  background-image: url("https://images.unsplash.com/photo-1453733190371-0a9bedd82893?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80");
+  background-size: cover;
+}
+
+#head {
+  font-size: 50px;
+  color: blue;
+  text-shadow: 3px 3px white;
+}
+
+#num1Block {
+  margin: 15px;
+  padding: 8px;
+  color: blue;
+  font-weight: 800;
+  text-shadow: 1px 1px white;
+}
+
+#num2Block {
+  margin: 15px;
+  padding: 8px;
+  color: blue;
+  font-weight: 800;
+  text-shadow: 1px 1px white;
+}
+
+input {
+  margin-left: 18px;
+}
+
+button {
+  margin: 15px;
+  color: blue;
+  font-weight: 800;
+}
+
+#btnBlock {
+   margin: 15px;
+}
+
+h1 {
+  color: blue;
+  text-shadow: 3px 3px white;
+}
